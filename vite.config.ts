@@ -13,7 +13,7 @@ export default defineConfig(({mode}) => {
       },
     },
     server: {
-      port: 5181,
+      port: 5173,
       host: '0.0.0.0',
       hmr: process.env.DISABLE_HMR !== 'true',
     },
