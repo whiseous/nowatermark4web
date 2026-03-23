@@ -1,0 +1,5 @@
+{
+  "name": "Watermark Remover",
+  "description": "A frontend-only tool to remove watermarks from images using edge-pixel interpolation and save them locally.",
+  "requestFramePermissions": []
+}
