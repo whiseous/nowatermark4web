@@ -96,4 +96,4 @@ npm run build
 <img width="1771" height="789" alt="image" src="https://github.com/user-attachments/assets/5cb5aa0e-d21c-4ba2-ad8a-f0715d62bc94" />
 />
 
-以上是gemini的说明，实际不适于高光照高饱和与色块驳杂的区域，
+以上是gemini的说明，实际不适于高光照高饱和与色块驳杂的区域
