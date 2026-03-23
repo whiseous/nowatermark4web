@@ -94,3 +94,10 @@ Using the application is straightforward and requires no technical knowledge fro
      - **Download icon:** Re-download the image to your computer.
      - **Trash icon:** Permanently delete the image from your browser's local storage.
    - *Note: Because this uses IndexedDB, clearing your browser's site data/cache will clear this gallery.*
+
+<img width="1840" height="826" alt="image" src="https://github.com/user-attachments/assets/19401d08-ee5b-4991-aebb-cddad0b3a99e" />
+
+<img width="1771" height="789" alt="image" src="https://github.com/user-attachments/assets/5cb5aa0e-d21c-4ba2-ad8a-f0715d62bc94" />
+/>
+
+The above is Gemini's description; in practice, it is not suitable for areas with high lighting, high saturation, or mixed color blocks.<img width="792" height="180" alt="image" src="https://github.com/user-attachments/assets/16f7d7f3-abf6-4dbd-847b-a5fa46151aa8" />
